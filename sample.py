@@ -9,3 +9,5 @@ print ("\n")
 print ("THIS IS JENKINS Integration")
 
 print ("THIS IS JENKINS Integration - Yusuf's Project")
+
+print ("Python is now installed")
