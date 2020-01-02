@@ -12,4 +12,4 @@ print ("THIS IS JENKINS Integration - Yusuf's Project")
 
 print ("Python is now installed")
 
-print ("Running a Job on Slave 1")
+print ("Running a Job on Slave 2")
