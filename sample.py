@@ -11,7 +11,3 @@ print ("THIS IS JENKINS Integration")
 print ("THIS IS JENKINS Integration - Yusuf's Project")
 
 print ("Python is now installed")
-
-print ("This communication is happening via SSH Secure Communication")
-
-print ("This Job will create a slave folder on Jenkins/slave1")
